@@ -1,10 +1,8 @@
 baseURL: "https://www.steamcentre.org"
 title: "Steam Centre"
 paginate: 5
-languageCode: zh-cn
 theme: PaperMod
-
-
+defaultContentLanguage: zh
 
 enableRobotsTXT: true
 
@@ -42,7 +40,7 @@ params:
   tocopen: false
 
   label:
-    text: "HOME"
+    text: "STEAM"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
