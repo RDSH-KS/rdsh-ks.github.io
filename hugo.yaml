@@ -1,6 +1,7 @@
 baseURL: "https://www.steamcentre.org"
 title: "Steam Centre"
 paginate: 5
+languageCode: zh-cn
 theme: PaperMod
 
 
@@ -41,7 +42,7 @@ params:
   tocopen: false
 
   label:
-    text: "SteamCentre"
+    text: "HOME"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
