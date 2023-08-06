@@ -40,22 +40,20 @@ params:
   tocopen: false
 
   label:
-    text: "STEAM"
+    text: "Steam Centre"
     icon: /apple-touch-icon.png
-    iconHeight: 35
+    iconHeight: 28
 
 # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to Steam Centre
+    Title: "欢迎！"
+    Content: 不要被网站地址迷惑，这里不能说与 steam（游戏） 或 s.t.e.a.m（教育） 没有一点关系，但是关系确实不大，注册这个域名纯粹是一时心血来潮。现在这里就是用来记录我折腾自己和这个世界的空间。这些记录不构成任何建议或意见，也无意冒犯任何人。如果你有缘来到这里，读了这些文字，想和我聊两句，无论是批评，还是鼓励，我都真诚的欢迎通过下面的方式联系我。
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
     - name: email
-      url: "mailto:JoeWang@ksgtzn.cn"
+      url: "mailto:ds.rao@msn.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/RDSH-KS"
 
   cover:
     hidden: true # hide everywhere but not in structured data
