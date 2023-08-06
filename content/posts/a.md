@@ -19,7 +19,7 @@ cover:
     alt: "Hugo" 
     caption: "Hugo" 
     relative: false
-    hidden: false
+    hidden: true
 ---
 
 # 使用 Hugo 创建网站
