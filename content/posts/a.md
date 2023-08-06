@@ -1,38 +1,25 @@
 ---
-title: "My 1st post"
+title: "使用 Hugo 创建网站"
 date: 2005-10-27T10:30:03+00:00
-# weight: 1
-# aliases: ["/first"]
-tags: ["test"]
-categories: ["test"]
-author: "Steam A"
-# showToc: true
-# TocOpen: false
+tags: ["hugo", "website building"]
+categories: ["Computer Science"]
+author: "Joe Wang"
+showToc: true
+TocOpen: false
 draft: false
 hidemeta: false
-# comments: false
-description: "Desc Text."
-# canonicalURL: "https://canonical.url/to/page"
-# disableHLJS: true # to disable highlightjs
-# disableShare: false
+description: "使用 hugo 创建网站的全过程记录。包括 hugo 的介绍、安装、主题选择及使用等"
 hideSummary: false
 searchHidden: false
-# ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
-# ShowWordCount: true
-# ShowRssButtonInSectionTermList: true
 UseHugoToc: true
-# cover:
-    # image: "<image path/url>" # image path/url
-    # alt: "<alt text>" # alt text
-    # caption: "<text>" # display caption under cover
-    #relative: false # when using page bundles set this to true
-    # hidden: true # only hide on current single page
-# editPost:
-    # URL: "https://github.com/<path_to_repo>/content"
-    # Text: "Suggest Changes" # edit text
-    # appendFilePath: true # to append file path to Edit link
+cover:
+    image: "https://raw.githubusercontent.com/RDSH-KS/Images/main/img/Snipaste_HugoSite_001.jpg"
+    alt: "Hugo" 
+    caption: "Hugo" 
+    relative: false
+    hidden: true
 ---
 
-This is the 1st post here for testing.
+# 使用 Hugo 创建网站
