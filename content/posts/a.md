@@ -15,7 +15,7 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 UseHugoToc: true
 cover:
-    image: "https://raw.githubusercontent.com/RDSH-KS/Images/main/img/Snipaste_HugoSite_001.jpg"
+    image: "images/Snipaste_HugoSite_001.jpg"
     alt: "Hugo" 
     caption: "Hugo" 
     relative: false
